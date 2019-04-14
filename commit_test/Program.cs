@@ -6,7 +6,8 @@ namespace commit_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("please work, ffs, i just want my right git " +
+                "config back");
         }
     }
 }
